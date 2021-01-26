@@ -10,7 +10,7 @@ else:
 
 setuptools.setup(
     name='kimdb',
-    version='0.0.12',
+    version='0.0.13',
     author='',
     description='kimdb',
     long_description=long_description,
