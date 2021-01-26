@@ -11,11 +11,11 @@ else:
 setuptools.setup(
     name='kimdb',
     version='0.0.15',
-    author='',
+    author='Kovács Kristóf-Attila',
     description='kimdb',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/kkristof200/py_imdb',
     packages=setuptools.find_packages(),
     install_requires=[],
     classifiers=[
