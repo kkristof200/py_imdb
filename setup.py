@@ -10,7 +10,7 @@ else:
 
 setuptools.setup(
     name='kimdb',
-    version='0.0.13',
+    version='0.0.14',
     author='',
     description='kimdb',
     long_description=long_description,
@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[],
     classifiers=[
-        '3.4',
+        'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
